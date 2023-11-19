@@ -1,0 +1,108 @@
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.csproj.AssemblyReference.cache
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.AssemblyInfoInputs.cache
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.AssemblyInfo.cs
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.csproj.CoreCompileInputs.cache
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\appsettings.json
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\lesson_1.exe
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\lesson_1.deps.json
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\lesson_1.runtimeconfig.json
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\lesson_1.runtimeconfig.dev.json
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\ref\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\lesson_1.pdb
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\רוזנטל יוכבד\core\lesson_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\staticwebassets\lesson_1.StaticWebAssets.Manifest.cache
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\staticwebassets\lesson_1.StaticWebAssets.xml
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\scopedcss\bundle\lesson_1.styles.css
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.RazorTargetAssemblyInfo.cache
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.csproj.CopyComplete
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\ref\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.pdb
+Z:\B\רוזנטל יוכבד\core\lesson_1\obj\Debug\net5.0\lesson_1.genruntimeconfig.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\appsettings.Development.json
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\appsettings.json
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\lesson_1.exe
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\lesson_1.deps.json
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\lesson_1.runtimeconfig.json
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\lesson_1.runtimeconfig.dev.json
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\lesson_1.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\ref\lesson_1.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\lesson_1.pdb
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.csproj.AssemblyReference.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.AssemblyInfoInputs.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.AssemblyInfo.cs
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.csproj.CoreCompileInputs.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\staticwebassets\lesson_1.StaticWebAssets.Manifest.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\staticwebassets\lesson_1.StaticWebAssets.xml
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\scopedcss\bundle\lesson_1.styles.css
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.RazorTargetAssemblyInfo.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.csproj.CopyComplete
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\ref\lesson_1.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.pdb
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\יוכי רוזנטל ומירי קארפ\obj\Debug\net5.0\lesson_1.genruntimeconfig.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_ 2\obj\Debug\net5.0\lesson_1.csproj.AssemblyReference.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_ 2\obj\Debug\net5.0\lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_ 2\obj\Debug\net5.0\lesson_1.AssemblyInfoInputs.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_ 2\obj\Debug\net5.0\lesson_1.AssemblyInfo.cs
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_ 2\obj\Debug\net5.0\lesson_1.csproj.CoreCompileInputs.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_ 2\obj\Debug\net5.0\lesson_1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_ 2\obj\Debug\net5.0\lesson_1.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_ 2\obj\Debug\net5.0\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_ 2\obj\Debug\net5.0\lesson_1.pdb
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_ 2\obj\Debug\net5.0\ref\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\obj\Debug\net5.0\lesson_1.csproj.AssemblyReference.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\obj\Debug\net5.0\lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\obj\Debug\net5.0\lesson_1.AssemblyInfoInputs.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\obj\Debug\net5.0\lesson_1.AssemblyInfo.cs
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\obj\Debug\net5.0\lesson_1.csproj.CoreCompileInputs.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\obj\Debug\net5.0\lesson_1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\obj\Debug\net5.0\lesson_1.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\obj\Debug\net5.0\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\obj\Debug\net5.0\ref\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\obj\Debug\net5.0\lesson_1.pdb
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.csproj.AssemblyReference.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.AssemblyInfoInputs.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.AssemblyInfo.cs
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.csproj.CoreCompileInputs.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\ref\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.pdb
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\appsettings.json
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\lesson_1.exe
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\lesson_1.deps.json
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\lesson_1.runtimeconfig.json
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\lesson_1.runtimeconfig.dev.json
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\ref\lesson_1.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\lesson_1.pdb
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\staticwebassets\lesson_1.StaticWebAssets.Manifest.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\staticwebassets\lesson_1.StaticWebAssets.xml
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\scopedcss\bundle\lesson_1.styles.css
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.RazorTargetAssemblyInfo.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.csproj.CopyComplete
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\obj\Debug\net5.0\lesson_1.genruntimeconfig.cache
+Z:\B\רוזנטל יוכבד\core\h.w\lesson_2\task\bin\Debug\net5.0\Data\Task.json
